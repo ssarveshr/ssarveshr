@@ -29,7 +29,7 @@ I'm a passionate developer interested in building impactful projects. I enjoy so
 
 <div align="center">
   <a href="https://github.com/ssarveshr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssarveshr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssarveshr&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarveshr&layout=compact&theme=tokyonight"/>
   </a>
 </div>
