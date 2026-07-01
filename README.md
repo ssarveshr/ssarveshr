@@ -1,72 +1,128 @@
 # Hi there, I'm Sai Sarvesh R 👋
 
-### 👨‍💻 Developer | Learner | Creator
+<h3 align="center">💻 Full Stack Developer | ⛓️ Blockchain Enthusiast | 📈 Stock Market Enthusiast</h3>
 
-I'm a passionate developer interested in building impactful projects. I enjoy solving complex problems and learning new technologies.
+<p align="center">
+Passionate about building scalable web, mobile, and blockchain applications that solve real-world problems.
+</p>
 
-- 🔭 I’m currently working on **Full Stack Development** and **IoT Projects**.
-- 🌱 I’m currently learning **Advanced Algorithms** and **System Design**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Python, C++, and Web Development**.
-
----
-
-### �️ Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://github.com/ssarveshr">
+    <img src="https://komarev.com/ghpvc/?username=ssarveshr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-### �📊 GitHub Stats
+## 🚀 About Me
 
-<div align="center">
-  <a href="https://github.com/ssarveshr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssarveshr&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarveshr&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssarveshr&theme=tokyonight" alt="ssarveshr's streak" />
-</div>
+- 🎓 Computer Science Undergraduate
+- 💻 Full Stack Developer specializing in the **MERN Stack** and **React Native**
+- ⛓️ Passionate about **Blockchain**, **Web3**, and **Decentralized Applications**
+- 📈 Stock Market Enthusiast with an interest in **Fundamental Analysis**, **Value Investing**, and **Long-term Wealth Creation**
+- 🌱 Currently learning **System Design**, **Cloud Computing**, and **Advanced DSA**
+- 🤝 Open to collaborating on **Open Source** and innovative software projects
+- ⚡ I enjoy building scalable applications that create real-world impact
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-Here are some of the projects I've been working on:
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase" />
+</p>
+
+### Blockchain
+
+<p>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssarveshr&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarveshr&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssarveshr&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssarveshr&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
-| 🛒 **[Fake Review Detection](https://github.com/ssarveshr/fake-review-detection)** | A browser extension to detect and analyze fake reviews on e-commerce platforms like Amazon and Flipkart. |
-| 🎓 **[Campus Event Management](https://github.com/ssarveshr/Campus-event-management)** | A comprehensive system for managing campus events, streamlining organization and participation. |
-| 🏙️ **[Civic Project SIH](https://github.com/ssarveshr/Civic-project-SIH)** | Civic-focused project, likely developed for the Smart India Hackathon. |
-| 🌐 **[PES IOT](https://github.com/ssarveshr/PES_IOT)** | Internet of Things projects and experiments. |
+|---------|-------------|
+| 🏠 **[Tenant-Bridge](https://github.com/ssarveshr/Tenant-Bridge)** | A blockchain-powered rental management platform with secure payments, smart contracts, and digital rental agreements built using React Native, Supabase, Razorpay, and Ethereum. |
+| 🛒 **[Fake Review Detection](https://github.com/ssarveshr/fake-review-detection)** | A browser extension that detects and analyzes fake reviews on e-commerce platforms like Amazon and Flipkart using machine learning. |
+| 🎓 **[Campus Event Management](https://github.com/ssarveshr/Campus-event-management)** | A MERN stack platform for managing campus events, registrations, faculty approvals, attendance, and feedback. |
 
 ---
 
-### 📫 Connect with Me
+## 🏆 GitHub Trophies
 
-<p align="left">
-<a href="https://linkedin.com/in/sai-sarvesh-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sarvesh-r" height="30" width="40" /></a>
-<a href="https://github.com/ssarveshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ssarveshr" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ssarveshr&label=Profile%20Views&color=0e75b6&style=flat" alt="ssarveshr" />
-</p>
-
-<br />
-
----
 <p align="center">
-  <i>Let's build something amazing together!</i>
+<img src="https://github-profile-trophy.vercel.app/?username=ssarveshr&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/ssarveshr">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sai-sarvesh-r">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ssr1032005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>💡 "Building scalable software, exploring blockchain, and investing in the future."</i>
 </p>
