@@ -7,29 +7,21 @@ Passionate about building scalable web, mobile, and blockchain applications that
 </p>
 
 <p align="center">
-
-<a href="https://github.com/ssarveshr">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/sai-sarvesh-r">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://saisarveshr.in">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:ssr1032005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://github.com/ssarveshr">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sai-sarvesh-r">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://saisarveshr.in">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ssr1032005@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
 </p>
 
 <p align="center">
@@ -126,7 +118,7 @@ Passionate about building scalable web, mobile, and blockchain applications that
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ssarveshr&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ssarveshr&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 </p>
 
 ---
