@@ -7,6 +7,32 @@ Passionate about building scalable web, mobile, and blockchain applications that
 </p>
 
 <p align="center">
+
+<a href="https://github.com/ssarveshr">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/sai-sarvesh-r">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://saisarveshr.in">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:ssr1032005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+<p align="center">
   <a href="https://github.com/ssarveshr">
     <img src="https://komarev.com/ghpvc/?username=ssarveshr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
@@ -101,36 +127,6 @@ Passionate about building scalable web, mobile, and blockchain applications that
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ssarveshr&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/ssarveshr">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/sai-sarvesh-r">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://saisarveshr.in">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:ssr1032005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
 </p>
 
 ---
